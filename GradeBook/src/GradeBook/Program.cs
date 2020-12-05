@@ -6,7 +6,7 @@ namespace GradeBook
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("srikar reddy!");
+            Console.WriteLine("shello rikar reddy!");
         }
     }
 }
